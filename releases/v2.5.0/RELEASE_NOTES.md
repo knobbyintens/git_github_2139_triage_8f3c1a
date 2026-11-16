@@ -14,7 +14,7 @@
 - #75 — Search index rebuild stalls for large tenants (P2)
 
 ## Excluded
-- #80 — Refresh onboarding documentation screenshots (non-shippable type: documentation)
-- #81 — Rate-limit bypass via spoofed client header (targets v2.6.0)
-- #82 — WebSocket worker leaks memory under reconnect storms (targets v2.6.0)
-- #83 — Replace deprecated structured logger (non-shippable type: chore)
+- #80 — Refresh onboarding documentation screenshots (type: documentation)
+- #81 — Rate-limit bypass via spoofed client header (target: v2.6.0)
+- #82 — WebSocket worker leaks memory under reconnect storms (target: v2.6.0)
+- #83 — Replace deprecated structured logger (type: chore)
